@@ -26,9 +26,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razrahul&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<img src="https://raw.githubusercontent.com/razrahul/razrahul/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-kumar&show_icons=true&locale=en" alt="RahulKumar" /></p>
