@@ -8,7 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="RahulKumar" /> </p>
 
 - 💻 Passionate about crafting beautiful and user-friendly interfaces.
-- 🔍 Proficient in HTML, CSS, JavaScript, and modern front-end frameworks like React.js.
+- 🔍 Proficient in HTML, CSS,MUI,CHKRAUI,TailwindCSS, JavaScript,TypeScript and modern front-end frameworks like React.js.
+-  🔍 Proficient in Express, MongoDB, MYSQl, and modern Back-end like Node.js.
 - 🧠 Solid understanding of data structures and algorithms.
 - 📚 Constantly learning and exploring new technologies to stay ahead in the tech world.
 - 📫 Drop me a line at [razrahuleee@gmail.com](mailto:razrahuleee@gmail.com)
