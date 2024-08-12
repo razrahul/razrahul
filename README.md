@@ -13,7 +13,7 @@
 - 🧠 Solid understanding of data structures and algorithms.
 - 📚 Constantly learning and exploring new technologies to stay ahead in the tech world.
 - 📫 Drop me a line at [rk085325@gmail.com](mailto:razrahuleee@gmail.com)
-- 🔗 Connect with me on target="_blank"[LinkedIn](https://www.linkedin.com/in/rahulkumar-razrahul/)
+- 🔗 Connect with me on [LinkedIn ]target="_blank"(https://www.linkedin.com/in/rahulkumar-razrahul/)
 - 🔗 Check out my projects on [GitHub](https://github.com/razrahul)
 - 🔗 Check out my projects on [instagram](https://www.instagram.com/_raz_rahul/)
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +29,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/algorithm/algorithm-original.svg" alt="DSA" width="40" height="40"/>
 </p>
 
 
