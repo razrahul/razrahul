@@ -12,9 +12,10 @@
 -  🔍 Proficient in Express, MongoDB, MYSQl, and modern Back-end like Node.js.
 - 🧠 Solid understanding of data structures and algorithms.
 - 📚 Constantly learning and exploring new technologies to stay ahead in the tech world.
-- 📫 Drop me a line at [razrahuleee@gmail.com](mailto:razrahuleee@gmail.com)
+- 📫 Drop me a line at [rk085325@gmail.com](mailto:razrahuleee@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahulkumar-razrahul/)
 - 🔗 Check out my projects on [GitHub](https://github.com/razrahul)
+- 🔗 Check out my projects on [instagram](https://www.instagram.com/_raz_rahul/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
