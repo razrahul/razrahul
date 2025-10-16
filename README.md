@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="400"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="250"/>
 </p>
 
 <p align="left">
