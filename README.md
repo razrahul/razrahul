@@ -35,11 +35,11 @@
 | 💹 **Financial Broker Portal** | Investment portal with OTP login, KYC & ROI tracking | Next.js, Node.js, MySQL, Razorpay, Twilio | [Source Code](https://github.com/razrahul/DashBoard_Backend) |
 | 🏥 **Smart Hospital Management System** | Hospital portal with appointment booking & Cloudinary storage | React.js, Node.js, MySQL, Razorpay | [Visit Site](https://loonahospital.com) |
 
----
 
-## 🧰 Tech Stack & Tools
 
-<p align="left">
+
+
+<!-- <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-</p>
+</p> -->
 
 
 
