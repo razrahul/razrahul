@@ -1,15 +1,15 @@
 <div align="center">
   <h1 style="font-size: 36px; font-weight: bold;">👋 Hey there, I'm Rahul Kumar</h1>
-  <p style="font-size: 18px;">🚀 Full-Stack Developer | 🧠 DSA Enthusiast | 💻 Open Source Contributor</p>
+  <p style="font-size: 18px;">🚀 Software Engineer (Full Stack) | MERN Stack | React.js, Node.js, Next.js | MySQL, MongoDB | Cloud & Scalable Systems</p>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="250"/>
-</p>
+</p> -->
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=razrahul&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-kumar" />
-</p>
+</p> -->
 
 ---
 
@@ -53,21 +53,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
+
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=razrahul&show_icons=true&theme=github_dark&hide_border=false" alt="rahul-kumar's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razrahul&theme=github-dark&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razrahul&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+</p> -->
 
----
-
-## 🌟 Fun Fact
-> "The best code isn’t written — it’s crafted, tested, and improved every day."
-
----
